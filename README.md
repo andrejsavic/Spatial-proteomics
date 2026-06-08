@@ -55,4 +55,3 @@ Distance analysis with a modifiable threshold. 'cell_type_from' and 'cell_type_t
 
 17. Neighborhood enrichment analysis
 NE analysis looking at 10 nearest neighbors, set to plot 'tumor-tumor', 'tumor-immune', 'immune-immune' and further top 5 most statistically significant interactions.
-19. 
